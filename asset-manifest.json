@@ -1,29 +1,30 @@
 {
   "files": {
-    "main.css": "./static/css/main.5333529d.chunk.css",
-    "main.js": "./static/js/main.b988d1a7.chunk.js",
-    "main.js.map": "./static/js/main.b988d1a7.chunk.js.map",
+    "main.css": "./static/css/main.81a4e66d.chunk.css",
+    "main.js": "./static/js/main.68b135d8.chunk.js",
+    "main.js.map": "./static/js/main.68b135d8.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.7c3e9311.js",
     "runtime-main.js.map": "./static/js/runtime-main.7c3e9311.js.map",
-    "static/js/2.a1d6f558.chunk.js": "./static/js/2.a1d6f558.chunk.js",
-    "static/js/2.a1d6f558.chunk.js.map": "./static/js/2.a1d6f558.chunk.js.map",
+    "static/js/2.245e41dc.chunk.js": "./static/js/2.245e41dc.chunk.js",
+    "static/js/2.245e41dc.chunk.js.map": "./static/js/2.245e41dc.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.c905d48b3d3357d26249cd6634540a97.js": "./precache-manifest.c905d48b3d3357d26249cd6634540a97.js",
+    "precache-manifest.2b3dd905ffbf606f7e73cc536f75c49e.js": "./precache-manifest.2b3dd905ffbf606f7e73cc536f75c49e.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.5333529d.chunk.css.map": "./static/css/main.5333529d.chunk.css.map",
-    "static/js/2.a1d6f558.chunk.js.LICENSE.txt": "./static/js/2.a1d6f558.chunk.js.LICENSE.txt",
+    "static/css/main.81a4e66d.chunk.css.map": "./static/css/main.81a4e66d.chunk.css.map",
+    "static/js/2.245e41dc.chunk.js.LICENSE.txt": "./static/js/2.245e41dc.chunk.js.LICENSE.txt",
     "static/media/App.scss": "./static/media/Mont-SemiBold.d41a520b.otf",
     "static/media/Search.scss": "./static/media/cross.daf79095.svg",
     "static/media/Button.scss": "./static/media/disabled-right.fe8f2a49.svg",
     "static/media/Dropdown.scss": "./static/media/down.b96cc7d7.svg",
     "static/media/Card.scss": "./static/media/heart.ba064880.svg",
-    "static/media/MainSlider.scss": "./static/media/right.67be4a4a.svg",
+    "static/media/Breadcrumbs.scss": "./static/media/right.67be4a4a.svg",
+    "static/media/GoBack.scss": "./static/media/left.5ca5c1f5.svg",
     "static/media/Footer.scss": "./static/media/up.6da4f519.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.7c3e9311.js",
-    "static/js/2.a1d6f558.chunk.js",
-    "static/css/main.5333529d.chunk.css",
-    "static/js/main.b988d1a7.chunk.js"
+    "static/js/2.245e41dc.chunk.js",
+    "static/css/main.81a4e66d.chunk.css",
+    "static/js/main.68b135d8.chunk.js"
   ]
 }
