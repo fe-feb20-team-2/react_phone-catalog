@@ -1,30 +1,32 @@
 {
   "files": {
-    "main.css": "./static/css/main.95d4b94d.chunk.css",
-    "main.js": "./static/js/main.f32707a6.chunk.js",
-    "main.js.map": "./static/js/main.f32707a6.chunk.js.map",
+    "main.css": "./static/css/main.0b783df4.chunk.css",
+    "main.js": "./static/js/main.fe50437b.chunk.js",
+    "main.js.map": "./static/js/main.fe50437b.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.7c3e9311.js",
     "runtime-main.js.map": "./static/js/runtime-main.7c3e9311.js.map",
-    "static/js/2.db20c25e.chunk.js": "./static/js/2.db20c25e.chunk.js",
-    "static/js/2.db20c25e.chunk.js.map": "./static/js/2.db20c25e.chunk.js.map",
+    "static/js/2.44519969.chunk.js": "./static/js/2.44519969.chunk.js",
+    "static/js/2.44519969.chunk.js.map": "./static/js/2.44519969.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.1cf8f83d40a753dc626e1d0fe555df93.js": "./precache-manifest.1cf8f83d40a753dc626e1d0fe555df93.js",
+    "precache-manifest.717f935230105d790621a23ff2a18a40.js": "./precache-manifest.717f935230105d790621a23ff2a18a40.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.95d4b94d.chunk.css.map": "./static/css/main.95d4b94d.chunk.css.map",
-    "static/js/2.db20c25e.chunk.js.LICENSE.txt": "./static/js/2.db20c25e.chunk.js.LICENSE.txt",
+    "static/css/main.0b783df4.chunk.css.map": "./static/css/main.0b783df4.chunk.css.map",
+    "static/js/2.44519969.chunk.js.LICENSE.txt": "./static/js/2.44519969.chunk.js.LICENSE.txt",
     "static/media/App.scss": "./static/media/Mont-SemiBold.d41a520b.otf",
-    "static/media/Search.scss": "./static/media/cross.daf79095.svg",
+    "static/media/CartPage.scss": "./static/media/minusActive.f7071f62.svg",
+    "static/media/Search.scss": "./static/media/Search.bdce8803.svg",
     "static/media/Button.scss": "./static/media/disabled-right.fe8f2a49.svg",
     "static/media/Dropdown.scss": "./static/media/down.b96cc7d7.svg",
     "static/media/Card.scss": "./static/media/redHeart.5402f79f.svg",
     "static/media/Breadcrumbs.scss": "./static/media/right.67be4a4a.svg",
     "static/media/GoBack.scss": "./static/media/left.5ca5c1f5.svg",
+    "static/media/Header.scss": "./static/media/shoppingBag.032a50cf.svg",
     "static/media/Footer.scss": "./static/media/up.6da4f519.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.7c3e9311.js",
-    "static/js/2.db20c25e.chunk.js",
-    "static/css/main.95d4b94d.chunk.css",
-    "static/js/main.f32707a6.chunk.js"
+    "static/js/2.44519969.chunk.js",
+    "static/css/main.0b783df4.chunk.css",
+    "static/js/main.fe50437b.chunk.js"
   ]
 }
