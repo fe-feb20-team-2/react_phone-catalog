@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "./static/css/main.91d2b65a.chunk.css",
-    "main.js": "./static/js/main.b9decca9.chunk.js",
-    "main.js.map": "./static/js/main.b9decca9.chunk.js.map",
+    "main.css": "./static/css/main.2b1aea3b.chunk.css",
+    "main.js": "./static/js/main.40565afe.chunk.js",
+    "main.js.map": "./static/js/main.40565afe.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.7c3e9311.js",
     "runtime-main.js.map": "./static/js/runtime-main.7c3e9311.js.map",
     "static/js/2.44519969.chunk.js": "./static/js/2.44519969.chunk.js",
     "static/js/2.44519969.chunk.js.map": "./static/js/2.44519969.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.f991e365b2ff851f275af5ede9f12555.js": "./precache-manifest.f991e365b2ff851f275af5ede9f12555.js",
+    "precache-manifest.d4fbff1935c88be87aa37d48c34789c5.js": "./precache-manifest.d4fbff1935c88be87aa37d48c34789c5.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.91d2b65a.chunk.css.map": "./static/css/main.91d2b65a.chunk.css.map",
+    "static/css/main.2b1aea3b.chunk.css.map": "./static/css/main.2b1aea3b.chunk.css.map",
     "static/js/2.44519969.chunk.js.LICENSE.txt": "./static/js/2.44519969.chunk.js.LICENSE.txt",
     "static/media/App.scss": "./static/media/Mont-SemiBold.d41a520b.otf",
     "static/media/CartPage.scss": "./static/media/minusActive.f7071f62.svg",
     "static/media/Search.scss": "./static/media/Search.bdce8803.svg",
     "static/media/Button.scss": "./static/media/disabled-right.fe8f2a49.svg",
     "static/media/Dropdown.scss": "./static/media/down.b96cc7d7.svg",
-    "static/media/Card.scss": "./static/media/redHeart.5402f79f.svg",
+    "static/media/ButtonFavor.scss": "./static/media/redHeart.5402f79f.svg",
     "static/media/Breadcrumbs.scss": "./static/media/right.67be4a4a.svg",
     "static/media/GoBack.scss": "./static/media/left.5ca5c1f5.svg",
     "static/media/Header.scss": "./static/media/shoppingBag.032a50cf.svg",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.7c3e9311.js",
     "static/js/2.44519969.chunk.js",
-    "static/css/main.91d2b65a.chunk.css",
-    "static/js/main.b9decca9.chunk.js"
+    "static/css/main.2b1aea3b.chunk.css",
+    "static/js/main.40565afe.chunk.js"
   ]
 }
