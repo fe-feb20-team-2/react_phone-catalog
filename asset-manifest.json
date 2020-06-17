@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.2b1aea3b.chunk.css",
-    "main.js": "./static/js/main.40565afe.chunk.js",
-    "main.js.map": "./static/js/main.40565afe.chunk.js.map",
+    "main.css": "./static/css/main.a10093d2.chunk.css",
+    "main.js": "./static/js/main.9608d13b.chunk.js",
+    "main.js.map": "./static/js/main.9608d13b.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.7c3e9311.js",
     "runtime-main.js.map": "./static/js/runtime-main.7c3e9311.js.map",
     "static/js/2.44519969.chunk.js": "./static/js/2.44519969.chunk.js",
     "static/js/2.44519969.chunk.js.map": "./static/js/2.44519969.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.d4fbff1935c88be87aa37d48c34789c5.js": "./precache-manifest.d4fbff1935c88be87aa37d48c34789c5.js",
+    "precache-manifest.ef92f47e5c1d30af6292287a1b7cbcaf.js": "./precache-manifest.ef92f47e5c1d30af6292287a1b7cbcaf.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.2b1aea3b.chunk.css.map": "./static/css/main.2b1aea3b.chunk.css.map",
+    "static/css/main.a10093d2.chunk.css.map": "./static/css/main.a10093d2.chunk.css.map",
     "static/js/2.44519969.chunk.js.LICENSE.txt": "./static/js/2.44519969.chunk.js.LICENSE.txt",
     "static/media/App.scss": "./static/media/Mont-SemiBold.d41a520b.otf",
     "static/media/CartPage.scss": "./static/media/minusActive.f7071f62.svg",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.7c3e9311.js",
     "static/js/2.44519969.chunk.js",
-    "static/css/main.2b1aea3b.chunk.css",
-    "static/js/main.40565afe.chunk.js"
+    "static/css/main.a10093d2.chunk.css",
+    "static/js/main.9608d13b.chunk.js"
   ]
 }
